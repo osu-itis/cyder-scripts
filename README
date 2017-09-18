@@ -1,0 +1,1 @@
+Various scripts to manipulate data in Cyder.  Some require more attention than others.  Always test run any changes you make against cyder-dev or your own local instance before using in prod.  Some scripts are examples only - see comments in each one.
